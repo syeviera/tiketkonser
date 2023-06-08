@@ -1,0 +1,61 @@
+body {
+  background-color: #000000;
+  margin: auto;
+  width: 50%;
+  padding: 30px;
+  border: 3px solid white;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 900px;
+	width: 670px;
+}
+
+h1 {
+	text-align: center;
+	font-family: montserrat classic;
+	font-size: 300%;
+	color: red;
+}
+
+table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: montserrat classic;
+	color: red;
+}
+
+table{
+	width: 95%;
+	border: 3px solid white;
+}
+select {
+	width: 50%;
+	padding: 10px;
+}
+
+#iuipw {
+	text-align: center;
+	font-family: montserrat classic;
+	font-size: 100%;
+	color: red;
+
+}
+
+.inputtext {
+	width: 95%;
+	padding: 10px;
+}
+
+input[type=submit]{
+  background-color: #514440;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
